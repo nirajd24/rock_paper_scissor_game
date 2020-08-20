@@ -7,4 +7,4 @@ Completed this coding by simultenously learning with https://youtu.be/jaVNP3nIAv
 
 Had fun doing this. I do not own this though I have coded this letter by letter just watching video.
 
-Only things changed is images.
+Only things changed is images. Happy Coding!
